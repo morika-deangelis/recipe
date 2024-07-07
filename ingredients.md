@@ -1,5 +1,6 @@
 INGREDIENTS
 
+Let's begin!
 * 1 1/3 cups Lemon Olive Oil 
 * 3 large eggs
 * 1 1/4 cups whole milk
@@ -13,3 +14,4 @@ INGREDIENTS
 * 1/2 teaspoon baking powder
 * 1/2 teaspoon baking soda
 * confectioners’ sugar, for dusting
+Enjoy my recipe!
