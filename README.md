@@ -6,5 +6,5 @@ Source: https://adorooilsandvinegars.ca/blogs/recipes/lemon-olive-oil-cake
 <<<<<<< HEAD
 last line changed locally
 =======
-### This is a LOCAL change :) 
+### This is a REMOTE change :0
 >>>>>>> 86c3c2e9be6d0750aee38bfbc0c38590a8174ec6
