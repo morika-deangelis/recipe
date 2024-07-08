@@ -1,10 +1,13 @@
+<<<<<<< HEAD
 ### This is a LOCAL change :) 
+>>>>>>> 87e3359c539ca8a316566747d2dd35ff142ba312
 # recipe 
 Lemon olive oil recipe line 2 changed remotely
 This recipe is easy to follow and uses ingredients which you already have in the pantry. Plus it stays fresh very long.
 Source: https://adorooilsandvinegars.ca/blogs/recipes/lemon-olive-oil-cake 
 <<<<<<< HEAD
+<<<<<<< HEAD
 last line changed locally
 =======
-### This is a REMOTE change :0
->>>>>>> 86c3c2e9be6d0750aee38bfbc0c38590a8174ec6
+### This is a REMOTE change :O
+>>>>>>> 87e3359c539ca8a316566747d2dd35ff142ba312
